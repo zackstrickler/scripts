@@ -29,18 +29,6 @@ Please note that this repository is **still a work in progress**. I am continuou
 
 I welcome any suggestions or feedback to make these scripts more robust and efficient.
 
-## How to Use
-
-1. **Clone the Repository**:  
-   To get started, clone this repository to your local environment:
-   ```bash
-   git clone https://github.com/zackstrickler/scripts.git
-   ```
-2. **Navigate to the Desired Script**:  
-   Each script is organized by category. Browse through the folders to find the script you want to use.
-3. **Run the Script**:  
-   Follow the usage instructions provided in the script header or the documentation for each script.
-
 ## Contributing
 
 Since this repository is a work in progress, contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
