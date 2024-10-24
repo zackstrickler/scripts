@@ -17,11 +17,11 @@ This repository serves as a central hub for storing all of my automated scripts.
 
 ### [Security Script](./Security%20Script.ps1)
 
-The **Security Script** is designed to enhance system security by performing tasks like disabling unnecessary services, applying security configurations, and running system scans. It ensures that the system is hardened against potential vulnerabilities.
+The **Security Script** is designed to take a scan report, and take in a list of computers, and cross reference the report and the KBs installed on the Computers to make sure that they are installed and implemented correctly.
 
 ### [Shutdown Script](./Shutdown%20Script.ps1)
 
-The **Shutdown Script** automates the shutdown process for a Windows system. It allows for controlled shutdown or restart operations, useful for system maintenance or energy-saving measures in environments that require frequent shutdown operations.
+The **Shutdown Script** automates the shutdown process for a Windows system. It takes Computer names from an external list and shuts them off. 
 
 ## Work in Progress 🛠️
 
