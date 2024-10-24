@@ -1,3 +1,4 @@
+
 # Automated Scripts Repository
 
 Welcome to the **Automated Scripts Repository**! This is the place where I am actively uploading and maintaining various automated scripts for different tasks. These scripts are designed to automate processes, improve productivity, and make complex tasks more efficient.
@@ -12,6 +13,16 @@ This repository serves as a central hub for storing all of my automated scripts.
 - **Productivity**: Tools and scripts to streamline workflows.
 - **Security Automation**: Scripts focused on enhancing cybersecurity and maintaining system integrity.
 
+## Scripts Overview
+
+### [Security Script](./Security%20Script.ps1)
+
+The **Security Script** is designed to enhance system security by performing tasks like disabling unnecessary services, applying security configurations, and running system scans. It ensures that the system is hardened against potential vulnerabilities.
+
+### [Shutdown Script](./Shutdown%20Script.ps1)
+
+The **Shutdown Script** automates the shutdown process for a Windows system. It allows for controlled shutdown or restart operations, useful for system maintenance or energy-saving measures in environments that require frequent shutdown operations.
+
 ## Work in Progress 🛠️
 
 Please note that this repository is **still a work in progress**. I am continuously updating and improving the scripts, and you may find that some scripts are in development or may require refinement.
@@ -23,15 +34,12 @@ I welcome any suggestions or feedback to make these scripts more robust and effi
 1. **Clone the Repository**:  
    To get started, clone this repository to your local environment:
    ```bash
-<<<<<<< HEAD
-   git clone https://github.com/your-username/automated-scripts.git
-=======
    git clone https://github.com/zackstrickler/scripts.git
->>>>>>> 80d2aba5da049c63b0625a9bb8c01b5c9c496370
-2.	Navigate to the Desired Script:
-Each script is organized by category. Browse through the folders to find the script you want to use.
-3.	Run the Script:
-Follow the usage instructions provided in the script header or the documentation for each script.
+   ```
+2. **Navigate to the Desired Script**:  
+   Each script is organized by category. Browse through the folders to find the script you want to use.
+3. **Run the Script**:  
+   Follow the usage instructions provided in the script header or the documentation for each script.
 
 ## Contributing
 
@@ -41,8 +49,4 @@ Since this repository is a work in progress, contributions are welcome! Feel fre
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-<<<<<<< HEAD
 Thank you for checking out the repository. Stay tuned for more updates as I continue developing and uploading new scripts!
-=======
-Thank you for checking out the repository. Stay tuned for more updates as I continue developing and uploading new scripts!
->>>>>>> 80d2aba5da049c63b0625a9bb8c01b5c9c496370
