@@ -23,7 +23,11 @@ I welcome any suggestions or feedback to make these scripts more robust and effi
 1. **Clone the Repository**:  
    To get started, clone this repository to your local environment:
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/your-username/automated-scripts.git
+=======
+   git clone https://github.com/zackstrickler/scripts.git
+>>>>>>> 80d2aba5da049c63b0625a9bb8c01b5c9c496370
 2.	Navigate to the Desired Script:
 Each script is organized by category. Browse through the folders to find the script you want to use.
 3.	Run the Script:
@@ -37,4 +41,8 @@ Since this repository is a work in progress, contributions are welcome! Feel fre
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+<<<<<<< HEAD
 Thank you for checking out the repository. Stay tuned for more updates as I continue developing and uploading new scripts!
+=======
+Thank you for checking out the repository. Stay tuned for more updates as I continue developing and uploading new scripts!
+>>>>>>> 80d2aba5da049c63b0625a9bb8c01b5c9c496370
